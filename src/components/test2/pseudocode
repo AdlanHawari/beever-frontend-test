@@ -1,0 +1,7 @@
+begin
+    array Input
+    accept Input
+    for(nInput=0; nInput<=lengthOfnInput; nInput++)
+    begin 
+    if obj[memberOfInput] exist -> value = 1
+    if obj[memberOfInput] already exist -> value increment
